@@ -10,8 +10,6 @@ Exposes the [Google Play Install Referrer API](https://developer.android.com/goo
 
 ```sh
 npm install react-native-install-referrer
-# or
-yarn add react-native-install-referrer
 ```
 
 ### Android
