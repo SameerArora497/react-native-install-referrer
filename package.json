@@ -1,5 +1,5 @@
 {
-  "name": "react-native-install-referrer",
+  "name": "@sameerarora/react-native-install-referrer",
   "version": "0.1.0",
   "description": "React Native Turbo Module for Google Play Install Referrer API",
   "main": "./lib/module/index.js",

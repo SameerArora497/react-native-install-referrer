@@ -9,7 +9,7 @@ Exposes the [Google Play Install Referrer API](https://developer.android.com/goo
 ## Installation
 
 ```sh
-npm install react-native-install-referrer
+npm install @sameerarora/react-native-install-referrer
 ```
 
 ### Android
@@ -31,7 +31,7 @@ import {
   getInstallReferrer,
   getReferrerDetails,
   parseReferrer,
-} from 'react-native-install-referrer';
+} from '@sameerarora/react-native-install-referrer';
 
 // Raw referrer string
 const referrer = await getInstallReferrer();
